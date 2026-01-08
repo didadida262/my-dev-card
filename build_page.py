@@ -1,16 +1,17 @@
 def main():
     # 个人信息配置
     personal_info = {
-        "name": "张三",
-        "title": "AI Engineer",
-        "description": "AI Engineer passionate about MLOps and automation.",
-        "skills": ["Python", "TensorFlow", "Git", "CI/CD", "Docker"],
+        "name": "ZiQin Wang",
+        "title": "Senior Frontend Engineer",
+        "description": "I’m Miles, an experienced senior engineer specializing in frontend and full-stack product development. I thrive on delivering complex features, mentoring teams, and maintaining curiosity alongside a steady output tempo. This repository mirrors my GitHub profile, so everything shown here also appears on https://github.com/didadida262.",
+        "skills": ["Frontend", "Backend & Services", "Engineering & Deployment", "Visualization & Mapping"],
         "projects": [
-            {"name": "项目一", "url": "https://github.com/yourusername/project1"},
-            {"name": "项目二", "url": "https://github.com/yourusername/project2"}
+            {"name": "Annotation Platform (project_labelV2)", "url": "https://project-label-v2.vercel.app"},
+            {"name": "Point Cloud Simulation Platform (project_pointcloud)", "url": "https://project-pointcloud.vercel.app"},
+            {"name": "3D Situation Simulation (project_cesium)", "url": "https://project-cesium-react.vercel.app"}
         ],
         "contact": {
-            "github": "https://github.com/yourusername",
+            "github": "https://github.com/didadida262",
             "linkedin": "https://linkedin.com/in/yourprofile"
         }
     }
